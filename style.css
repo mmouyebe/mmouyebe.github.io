@@ -83,3 +83,33 @@ hr {
     color: #666;
     font-size: 0.95rem;
 }
+
+
+/* ---------- Visual Refinements ---------- */
+
+h1 {
+    color: #0f2d52;
+    letter-spacing: -0.02em;
+}
+
+.subtitle {
+    color: #555;
+    font-size: 1.08rem;
+    margin-top: 0;
+    margin-bottom: 2em;
+}
+
+.nav {
+    border-bottom: 1px solid #e5e5e5;
+    padding-bottom: 0.8em;
+    margin-bottom: 2em;
+}
+
+.nav a {
+    font-weight: 500;
+}
+
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
